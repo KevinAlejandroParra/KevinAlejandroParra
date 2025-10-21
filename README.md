@@ -1,5 +1,5 @@
 # <center> Bienvenid@ a mi GitHub 👋 </center>
-<img src="me.png"/>
+<img src="me_banner.png"/>
 
 ### 🦁Sobre Mi
 Tecnólogo en Análisis y Desarrollo de Software (en formación); con alta
